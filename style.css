@@ -37,7 +37,7 @@ body{
 .container{
     background: var(--color-white);
     margin: 100px auto;
-    border-radius: 10px;
+    border-radius: 20px;
     width: 700px;
     padding: 30px;
 }
@@ -103,7 +103,7 @@ body{
     margin: 20px;
     padding: 0px 0 0 20px;
     color: var(--color-nutmeg);
-    font-size: 15px;
+    font-size: 13px;
 
 }
 
